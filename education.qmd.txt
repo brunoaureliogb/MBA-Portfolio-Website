@@ -1,0 +1,11 @@
+---
+title: "Education"
+---
+
+# Education
+
+::: {.impact-quote}
+A strong foundation in business and cybersecurity is what guides my professional growth.
+:::
+
+{{< include education.md >}}

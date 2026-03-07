@@ -1,0 +1,73 @@
+---
+title: "Appendix"
+format: html
+---
+
+# Appendix: LLM-Assisted Planning and Drafting
+
+## Appendix A — LLM-Generated Site Map
+
+The following site map was generated with LLM assistance for Assignment 3:
+
+- Home / About
+- Resume
+- Projects / Case Studies
+- Skills & Certifications
+- Contact
+
+### My Revision Notes
+I kept this structure because it aligns with the professor’s examples and creates a clear separation between identity, experience, projects, and skills.
+
+---
+
+## Appendix B — Home Page Draft
+
+### LLM Draft Purpose
+The Home page was drafted to introduce my profile, present a short value proposition, and provide navigation into the rest of the portfolio.
+
+### My Revisions
+- Replaced generic MBA wording with my actual focus on cybersecurity, governance, risk, and privacy.
+- Kept the strengths / focus areas / availability structure from my Phase 1 portfolio.
+- Simplified wording to sound more natural and professional.
+
+---
+
+## Appendix C — Resume Page Draft
+
+### LLM Draft Purpose
+The Resume page was drafted to expand my education, certifications, and professional experience into a more structured format.
+
+### My Revisions
+- Adapted the professional summary to reflect my real interests and experience.
+- Removed overly generic job language.
+- Focused on audit, governance, privacy, and risk-related work.
+
+---
+
+## Appendix D — Projects Page Draft
+
+### LLM Draft Purpose
+The Projects page was drafted to transform short project references into mini case studies.
+
+### My Revisions
+- Selected only projects relevant to my portfolio theme.
+- Rewrote sections to better reflect what I actually did and learned.
+- Used consistent headings for context, role, tools, and takeaways.
+
+---
+
+## Appendix E — Skills Page Draft
+
+### LLM Draft Purpose
+The Skills page was drafted to group my competencies into clearer categories.
+
+### My Revisions
+- Replaced generic headings with more professional categories.
+- Kept only frameworks and tools that I have actually studied or used.
+- Aligned the page with the same professional identity used across the website.
+
+---
+
+## Appendix F — Reflection on Revision Process
+
+The LLM helped me brainstorm structure and produce initial draft text. My main role was to review the output, remove generic statements, verify alignment with the assignment, and rewrite sections in a more authentic and accurate way. I also used my Phase 1 submission as a reference point so that the Phase 2 portfolio would feel like a true expansion rather than a completely new version.

@@ -1,0 +1,23 @@
+## Academic Qualifications
+
+### Master of Business Administration (MBA)
+**University Canada West**
+
+Expected completion: 2026
+
+Relevant coursework:
+- Business Analytics
+- Strategic Management
+- Operations Management
+- Digital Transformation
+- Leadership
+
+## Professional Qualifications
+
+- EXIN Information Security Foundation
+- Practical experience supporting cybersecurity and governance assessments
+- Exposure to privacy and data protection practices (LGPD and GDPR)
+
+## Focus for Next Roles
+
+I am targeting opportunities where I can combine business analysis with cybersecurity governance, risk communication, and privacy-oriented decision support.

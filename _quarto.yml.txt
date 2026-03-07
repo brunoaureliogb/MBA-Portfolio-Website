@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Bruno Barbosa"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - href: Resume.html
+        text: Resume
+      - href: education.html
+        text: Education
+      - href: projects.html
+        text: Projects
+      - href: skills.html
+        text: Skills
+      - href: contact.html
+        text: Contact
+  page-footer:
+    center: "© 2026 Bruno Barbosa · Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,18 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+Thank you for visiting my portfolio. I am open to networking, internships, and opportunities related to cybersecurity, governance, privacy, risk, and compliance.
+
+## Get in Touch
+
+- **Email:** your.email@email.com
+- **LinkedIn:** https://www.linkedin.com/in/your-profile
+- **Portfolio:** https://brunoaureliogb.github.io/Portfolio/
+- **Location:** Metro Vancouver, British Columbia
+
+## Let’s Connect
+
+I would be glad to connect with professionals, recruiters, classmates, and organizations interested in cybersecurity, governance, privacy, and business-oriented risk management.

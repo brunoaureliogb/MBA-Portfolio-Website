@@ -1,0 +1,57 @@
+---
+title: "Skills"
+---
+
+# Skills & Certifications
+
+This page summarizes the main areas of knowledge that support my profile as an MBA candidate with experience in cybersecurity, governance, risk, privacy, and compliance-related work.
+
+## Governance, Risk & Compliance
+
+- Cybersecurity governance support
+- Risk identification and documentation
+- Audit support
+- Control review
+- Compliance-oriented reporting
+
+## Privacy & Data Protection
+
+- LGPD awareness and project support
+- GDPR familiarity
+- Privacy governance concepts
+- Documentation and control mapping
+
+## Third-Party Risk & Assurance
+
+- Vendor risk review
+- Evidence collection and organization
+- Issue tracking
+- Structured assessment support
+
+## Business & Strategy
+
+- Problem structuring
+- Stakeholder communication
+- Executive-style summaries
+- Business analysis using strategy frameworks
+
+## Analytics & Digital Tools
+
+- Excel
+- PowerPoint
+- Quarto / Markdown
+- Basic Python / pandas
+- GitHub
+
+## Frameworks and Standards
+
+- ISO/IEC 27001
+- NIST
+- LGPD
+- GDPR
+- TPRM
+
+## Certifications
+
+- EXIN Information Security Foundation
+- [Add other real certifications here]

@@ -1,0 +1,70 @@
+---
+title: "Home"
+---
+
+::: {.columns}
+::: {.column width="35%"}
+![Bruno Barbosa](headshot.png){fig-alt="Portrait of Bruno Barbosa" width="85%"}
+:::
+
+::: {.column width="65%"}
+# Bruno Barbosa
+
+## MBA Candidate | Cybersecurity, Governance, Risk & Data Privacy
+
+I am an MBA candidate at University Canada West with professional experience in cybersecurity, governance, risk management, privacy, and audit support. My work has focused on helping organizations improve control environments, strengthen compliance practices, and communicate risk more clearly across stakeholders.
+
+::: {.impact-quote}
+Clarity in risk. Confidence in decisions.
+:::
+
+[LinkedIn](https://www.linkedin.com/)  
+[Email](mailto:your.email@email.com)  
+[Download Resume](resume.pdf)
+:::
+:::
+
+## About Me
+
+I am building my career at the intersection of business and cybersecurity. My background includes work related to information security, third-party risk, privacy, and compliance, supported by hands-on experience with frameworks and practices such as ISO/IEC 27001, NIST, LGPD, GDPR, and TPRM. Through my MBA, I am expanding that technical foundation with stronger business analysis, strategy, and communication skills.
+
+## Highlights
+
+::: {.columns}
+::: {.column width="33%"}
+### Strengths
+- Structured thinking  
+- Reliability  
+- Teamwork  
+- Continuous improvement
+:::
+
+::: {.column width="33%"}
+### Focus Areas
+- Cybersecurity governance  
+- Risk & compliance  
+- Privacy & data protection  
+- Stakeholder communication
+:::
+
+::: {.column width="33%"}
+### Availability
+- Open to internships  
+- Open to project-based work  
+- Interested in GRC, privacy, and governance roles
+:::
+:::
+
+## Explore My Portfolio
+
+### [Resume](Resume.html)
+Detailed overview of my professional experience, education, and certifications.
+
+### [Education](education.html)
+Academic path, relevant coursework, and certifications.
+
+### [Projects](projects.html)
+Selected case studies and practical work related to cybersecurity, privacy, and business problem-solving.
+
+### [Skills](skills.html)
+Core competencies, tools, and frameworks that support my professional profile.

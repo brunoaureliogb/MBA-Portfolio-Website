@@ -1,0 +1,14 @@
+---
+title: "Reflection"
+format: html
+---
+
+# Reflection on My Use of LLMs in Portfolio Development
+
+In the first phase of this project, I used an LLM mainly to generate a one-page portfolio outline and sample text. That support was useful because it gave me a starting structure and helped me organize essential sections such as the header, about section, skills, education, experience, and projects. However, the one-page format required me to be very selective. I needed to streamline the generated content and adapt it to a cleaner, more personal layout.
+
+In this second phase, the use of the LLM became more helpful because the assignment required a multi-page website. Expanding the site into multiple pages made it easier to separate content by purpose. Instead of compressing everything into one page, I could organize my portfolio more clearly into Home, Resume, Projects, Skills, and Contact. This structure improved readability and made the site feel more professional and easier to navigate. The LLM was particularly useful for brainstorming the site map, suggesting page-by-page content distribution, and helping me draft section headings and short descriptions.
+
+At the same time, I needed to ensure the portfolio remained authentic and accurate. I reviewed all generated text critically and replaced generic phrases with content that reflected my real background, academic journey, and career interests. I kept only the sections that matched my actual experience and removed anything that sounded too broad or unrealistic. I also checked assignment instructions carefully to make sure the final structure met the professor’s requirements for navigation, multiple pages, reflection, and appendix documentation.
+
+Overall, this process showed me that LLMs are most useful when they support structure, drafting, and brainstorming, but not when they are used without review. The final quality of the portfolio depended on my own judgment, editing, and personalization. I see the LLM as a productivity tool that helped me move faster, while my role was to verify, refine, and humanize the final result.

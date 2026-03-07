@@ -1,0 +1,54 @@
+---
+title: "Resume"
+---
+
+# Professional Summary
+
+I am an MBA candidate with experience in cybersecurity, governance, risk, privacy, and compliance-related work. My background includes supporting audits, reviewing controls, analyzing third-party risk, documenting governance processes, and contributing to privacy initiatives. I am particularly interested in roles that combine structured analysis, regulatory awareness, and clear business communication.
+
+# Professional Experience
+
+## Information Security Consultant
+**[Company Name]** | [City, Country] | [Dates]
+
+- Supported cybersecurity and governance-related assessments.
+- Reviewed documentation, control evidence, and risk-related materials.
+- Contributed to audit preparation, reporting, and stakeholder communication.
+- Assisted with the organization of findings, remediation items, and compliance-related activities.
+
+## Technical Operations / Electrical & Automation
+**[Company Name]** | [City, Country] | [Dates]
+
+- Worked with technical systems, operational routines, and process execution.
+- Coordinated tasks across teams and maintained service quality.
+- Developed strong problem-solving, discipline, and process-awareness skills.
+
+## Earlier Career in Communications / Customer-Facing Roles
+**[Company Name]** | [City, Country] | [Dates]
+
+- Built communication, adaptability, and client-facing skills.
+- Managed priorities in fast-paced environments.
+- Strengthened teamwork, professionalism, and service orientation.
+
+# Education
+
+## Master of Business Administration (MBA)
+**University Canada West**  
+Expected completion: [Month Year]
+
+Relevant coursework:
+- Business Analytics
+- Strategic Management
+- Operations Management
+- Digital Transformation
+- Leadership
+
+# Certifications
+
+- EXIN Information Security Foundation
+- [Add other valid certifications here]
+- [Add short courses only if relevant and true]
+
+# Resume Download
+
+[Download PDF Resume](resume.pdf)
