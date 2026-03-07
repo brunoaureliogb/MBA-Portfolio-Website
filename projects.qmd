@@ -2,25 +2,26 @@
 title: "Projects"
 ---
 
-# Selected Projects
+# Cybersecurity Projects
 
 This page presents selected projects that reflect my development in cybersecurity, privacy, governance, and business analysis. These examples combine technical understanding with structured communication and practical recommendations.
 
 ## NIST-Based External Cybersecurity Audit — Renewable Energy Corporation
 
 ### Context
-This project involved cybersecurity assessment activities aligned with a recognized control framework in a corporate environment.
+This project involved cybersecurity assessment activities aligned with a recognized control framework (NIST) in a corporate environment.
 
-### My Role
+#### My Role
 I supported audit-related activities, reviewed materials and evidence, and contributed to the organization of findings and reporting.
 
-### Tools / Frameworks
+#### Tools / Frameworks
 - NIST
-- Control review
-- Evidence analysis
-- Stakeholder communication
+- ISO/IEC 27001
+- CIS Controls
+- Audit documentation
+- Risk communication
 
-### Key Takeaways
+#### Key Takeaways
 - Strengthened my understanding of audit-based cybersecurity evaluation.
 - Improved my ability to organize findings into practical communication.
 - Reinforced the importance of documentation quality and control maturity.
@@ -32,16 +33,16 @@ I supported audit-related activities, reviewed materials and evidence, and contr
 ### Context
 This project focused on external cybersecurity audit support in an operationally important infrastructure environment.
 
-### My Role
+#### My Role
 I assisted with assessment activities, documentation review, and coordination of evidence and observations.
 
-### Tools / Frameworks
+#### Tools / Frameworks
 - NIST
 - Governance review
 - Risk-based observation
 - Reporting support
 
-### Key Takeaways
+#### Key Takeaways
 - Developed stronger attention to evidence quality and consistency.
 - Learned how cybersecurity controls relate to operational continuity.
 - Improved analytical communication in structured audit settings.
@@ -53,16 +54,16 @@ I assisted with assessment activities, documentation review, and coordination of
 ### Context
 This work related to third-party risk and the need to assess vendors and external partners from a governance and security perspective.
 
-### My Role
+#### My Role
 I contributed to risk evaluation activities, evidence review, and structured documentation for third-party assessment processes.
 
-### Tools / Frameworks
+#### Tools / Frameworks
 - TPRM
 - Vendor risk review
 - Documentation analysis
 - Risk communication
 
-### Key Takeaways
+#### Key Takeaways
 - Increased my understanding of supply-chain and vendor-related cyber risk.
 - Improved my ability to communicate control concerns in a business context.
 - Reinforced the value of standardized assessment processes.
@@ -74,38 +75,16 @@ I contributed to risk evaluation activities, evidence review, and structured doc
 ### Context
 This project involved data protection and privacy-related governance activities connected to compliance obligations.
 
-### My Role
+#### My Role
 I supported privacy-related assessment and governance work, including documentation and structured review of compliance practices.
 
-### Tools / Frameworks
+#### Tools / Frameworks
 - LGPD
 - Privacy governance
 - Documentation review
 - Compliance support
 
-### Key Takeaways
+#### Key Takeaways
 - Expanded my practical understanding of privacy governance.
 - Improved my ability to connect legal requirements with operational practices.
 - Strengthened my interest in privacy and data governance work.
-
----
-
-## MBA Strategy / Business Analysis Project
-
-### Context
-As part of my MBA, I worked on projects involving strategic analysis, business frameworks, and structured recommendations.
-
-### My Role
-I applied academic frameworks to evaluate business environments, identify challenges, and propose practical actions.
-
-### Tools / Frameworks
-- SWOT
-- PESTEL
-- Porter’s Five Forces
-- VRIO
-- Value Chain
-
-### Key Takeaways
-- Improved my ability to transform analysis into business recommendations.
-- Strengthened executive-style writing and presentation skills.
-- Learned to balance theory with practical decision-making.

@@ -47,6 +47,7 @@ This page summarizes the main areas of knowledge that support my profile as an M
 
 - ISO/IEC 27001
 - NIST
+- CIS
 - LGPD
 - GDPR
 - TPRM
@@ -54,4 +55,6 @@ This page summarizes the main areas of knowledge that support my profile as an M
 ## Certifications
 
 - EXIN Information Security Foundation
-- [Add other real certifications here]
+- SENAI - Certified Electrician
+- SENAI - Building Automation and Electronic Security Systems
+- SENAI - Electrical Control Systems

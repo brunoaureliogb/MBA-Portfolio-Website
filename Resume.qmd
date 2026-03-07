@@ -4,12 +4,12 @@ title: "Resume"
 
 # Professional Summary
 
-I am an MBA candidate with experience in cybersecurity, governance, risk, privacy, and compliance-related work. My background includes supporting audits, reviewing controls, analyzing third-party risk, documenting governance processes, and contributing to privacy initiatives. I am particularly interested in roles that combine structured analysis, regulatory awareness, and clear business communication.
+I’m a cybersecurity professional focused on governance, risk, and data privacy, with 4 years of experience across compliance, third-party risk management, and audit support. Based in Burnaby (Metro Vancouver), I’m completing an MBA at University Canada West (2026) to strengthen strategic and leadership capabilities.
 
 # Professional Experience
 
 ## Information Security Consultant
-**[Company Name]** | [City, Country] | [Dates]
+**Security First** | São Paulo, Brazil | 2020
 
 - Supported cybersecurity and governance-related assessments.
 - Reviewed documentation, control evidence, and risk-related materials.
@@ -17,14 +17,14 @@ I am an MBA candidate with experience in cybersecurity, governance, risk, privac
 - Assisted with the organization of findings, remediation items, and compliance-related activities.
 
 ## Technical Operations / Electrical & Automation
-**[Company Name]** | [City, Country] | [Dates]
+**TT Eletricas** | São Paulo, Brazil | 2014-2023
 
 - Worked with technical systems, operational routines, and process execution.
 - Coordinated tasks across teams and maintained service quality.
 - Developed strong problem-solving, discipline, and process-awareness skills.
 
 ## Earlier Career in Communications / Customer-Facing Roles
-**[Company Name]** | [City, Country] | [Dates]
+**Kreab&Kavin Anderson** | São Paulo, Brazil | 2012-2014
 
 - Built communication, adaptability, and client-facing skills.
 - Managed priorities in fast-paced environments.
@@ -34,20 +34,39 @@ I am an MBA candidate with experience in cybersecurity, governance, risk, privac
 
 ## Master of Business Administration (MBA)
 **University Canada West**  
-Expected completion: [Month Year]
+Expected completion: [April 2026]
 
 Relevant coursework:
-- Business Analytics
+
+- AI for Business
+- Machine Learning for Business
+- Cloud Computing (AWS Foundation)
 - Strategic Management
+- Leadership
+- Business Analytics
 - Operations Management
 - Digital Transformation
-- Leadership
+
+## BSc Social Communication (Journalism) 
+**Centro Univesitário FIEO (Brazil)**  
+
+Relevant coursework:
+
+- Business Communication
+- Strategic Communication
+- Interview and research techniques
+- BusinessWriting and editing
+- Media and public relations
+- Communication ethics and law
+- Communication theory
+- TV and radio production
 
 # Certifications
 
 - EXIN Information Security Foundation
-- [Add other valid certifications here]
-- [Add short courses only if relevant and true]
+- SENAI - Certified Electrician
+- SENAI - Building Automation and Electronic Security Systems
+- SENAI - Electrical Control Systems
 
 # Resume Download
 

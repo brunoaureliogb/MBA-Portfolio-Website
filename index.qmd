@@ -2,69 +2,106 @@
 title: "Home"
 ---
 
-::: {.columns}
-::: {.column width="35%"}
-![Bruno Barbosa](headshot.png){fig-alt="Portrait of Bruno Barbosa" width="85%"}
-:::
+<div class="home-hero">
 
-::: {.column width="65%"}
+<div class="home-hero-copy">
+
+<p class="home-kicker">Cybersecurity Portfolio</p>
+
 # Bruno Barbosa
 
-## MBA Candidate | Cybersecurity, Governance, Risk & Data Privacy
+## Cybersecurity, Governance, Risk & Data Privacy Professional
 
-I am an MBA candidate at University Canada West with professional experience in cybersecurity, governance, risk management, privacy, and audit support. My work has focused on helping organizations improve control environments, strengthen compliance practices, and communicate risk more clearly across stakeholders.
+I’m a cybersecurity professional focused on governance, risk, and data privacy, with 4 years of experience across compliance, third-party risk management, and audit support. Based in Burnaby (Metro Vancouver), I’m completing an MBA at University Canada West (2026) to strengthen strategic and leadership capabilities.
 
-::: {.impact-quote}
-Clarity in risk. Confidence in decisions.
-:::
+<div class="button-row">
+  <a class="custom-button" href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+  <a class="custom-button" href="mailto:your.email@email.com">Email</a>
+  <a class="custom-button" href="resume.html">Resume</a>
+</div>
 
-[LinkedIn](https://www.linkedin.com/)  
-[Email](mailto:your.email@email.com)  
-[Download Resume](resume.pdf)
-:::
-:::
+</div>
+
+<div class="home-hero-photo">
+![Bruno Barbosa](headshot.png){fig-alt="Portrait of Bruno Barbosa"}
+</div>
+
+</div>
+
+<div class="home-about-split">
+
+<div class="home-about-copy">
 
 ## About Me
 
 I am building my career at the intersection of business and cybersecurity. My background includes work related to information security, third-party risk, privacy, and compliance, supported by hands-on experience with frameworks and practices such as ISO/IEC 27001, NIST, LGPD, GDPR, and TPRM. Through my MBA, I am expanding that technical foundation with stronger business analysis, strategy, and communication skills.
 
-## Highlights
+<blockquote class="impact-quote">
+I help organizations mitigate cyber risks and strengthen data protection through practical controls, clear documentation, and stakeholder alignment.
 
-::: {.columns}
-::: {.column width="33%"}
-### Strengths
-- Structured thinking  
-- Reliability  
-- Teamwork  
-- Continuous improvement
-:::
+</blockquote>
 
-::: {.column width="33%"}
-### Focus Areas
-- Cybersecurity governance  
-- Risk & compliance  
-- Privacy & data protection  
-- Stakeholder communication
-:::
+</div>
 
-::: {.column width="33%"}
-### Availability
-- Open to internships  
-- Open to project-based work  
-- Interested in GRC, privacy, and governance roles
-:::
-:::
+<div class="home-highlight-panel">
+
+<h3>Highlights</h3>
+
+<div class="highlights-grid">
+
+<div class="highlight-card">
+<h4>Strengths</h4>
+<ul>
+  <li>Structured thinking</li>
+  <li>Reliability</li>
+  <li>Teamwork</li>
+  <li>Continuous improvement</li>
+</ul>
+</div>
+
+<div class="highlight-card">
+<h4>Focus Areas</h4>
+<ul>
+  <li>Cybersecurity governance</li>
+  <li>Cybersecurity Auditing</li>
+  <li>Risk & compliance</li>
+  <li>Privacy & data protection</li>
+  <li>Stakeholder communication</li>
+</ul>
+</div>
+
+<div class="highlight-card">
+<h4>Availability</h4>
+<ul>
+  <li>Open to internships</li>
+  <li>Open to project-based work</li>
+  <li>Interested in GRC, privacy, and governance roles</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 ## Explore My Portfolio
 
-### [Resume](Resume.html)
-Detailed overview of my professional experience, education, and certifications.
+<div class="page-links-grid">
 
-### [Education](education.html)
-Academic path, relevant coursework, and certifications.
+<div class="page-link-card">
+<h3><a href="resume.html">Resume</a></h3>
+<p>Detailed overview of my professional experience, education, and certifications.</p>
+</div>
 
-### [Projects](projects.html)
-Selected case studies and practical work related to cybersecurity, privacy, and business problem-solving.
+<div class="page-link-card">
+<h3><a href="projects.html">Projects</a></h3>
+<p>Selected case studies and practical work related to cybersecurity, privacy, and business problem-solving.</p>
+</div>
 
-### [Skills](skills.html)
-Core competencies, tools, and frameworks that support my professional profile.
+<div class="page-link-card">
+<h3><a href="skills.html">Skills</a></h3>
+<p>Core competencies, tools, and frameworks that support my professional profile.</p>
+</div>
+
+</div>

@@ -65,6 +65,69 @@ main.content {
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
 }
 
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(190px, 240px) minmax(0, 1fr);
+  gap: clamp(1rem, 2.8vw, 2rem);
+  align-items: start;
+}
+
+.hero-image {
+  margin: 0;
+  align-self: start;
+}
+
+.hero-image p {
+  margin: 0;
+}
+
+.hero-image img {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: auto;
+  object-fit: cover;
+}
+
+.hero-text {
+  align-self: start;
+  min-width: 0;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.custom-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid rgba(142, 214, 255, 0.48);
+  border-radius: 10px;
+  background: rgba(142, 214, 255, 0.08);
+  color: #d7f1ff;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 180ms ease, background 180ms ease, border-color 180ms ease;
+}
+
+.custom-button:hover {
+  background: rgba(142, 214, 255, 0.18);
+  border-color: rgba(142, 214, 255, 0.9);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
 h1,
 h2,
 h3 {
@@ -140,4 +203,45 @@ footer {
     border-radius: 16px;
     padding: 1rem;
   }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .hero-image {
+    justify-self: center;
+    width: min(72vw, 280px);
+  }
+
+  .hero-image img {
+    max-width: none;
+    width: 100%;
+  }
+
+  .hero-text {
+    text-align: left;
+  }
+}
+
+@media (max-width: 520px) {
+  main.content {
+    margin: 0.7rem 0.45rem;
+    padding: 0.85rem;
+    border-radius: 14px;
+  }
+
+  .hero-text h2 {
+    font-size: clamp(1rem, 5vw, 1.3rem);
+  }
+
+  .button-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .custom-button {
+    width: 100%;
+  }
+
 }
