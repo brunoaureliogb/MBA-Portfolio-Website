@@ -48,7 +48,3 @@ Relevant coursework:
 - EXIN Information Security Foundation
 - [Add other valid certifications here]
 - [Add short courses only if relevant and true]
-
-# Resume Download
-
-[Download PDF Resume](resume.pdf)

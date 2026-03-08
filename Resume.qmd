@@ -67,7 +67,3 @@ Relevant coursework:
 - SENAI - Certified Electrician
 - SENAI - Building Automation and Electronic Security Systems
 - SENAI - Electrical Control Systems
-
-# Resume Download
-
-[Download PDF Resume](resume.pdf)
