@@ -25,7 +25,7 @@ I'm a cybersecurity professional focused on governance, risk, and data privacy, 
 <div class="button-row">
   <a class="custom-button" href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
   <a class="custom-button" href="mailto:your.email@email.com">Email</a>
-  <a class="custom-button" href="resume.html">Resume</a>
+  <a class="custom-button" href="Resume.html">Resume</a>
 </div>
 
 </div>
@@ -89,7 +89,7 @@ I am building my career at the intersection of business and cybersecurity. My ba
 <div class="page-links-grid">
 
 <div class="page-link-card">
-<h3><a href="resume.html">Resume</a></h3>
+<h3><a href="Resume.html">Resume</a></h3>
 <p>Detailed overview of my professional experience, education, and certifications.</p>
 </div>
 
