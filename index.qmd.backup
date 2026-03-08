@@ -1,26 +1,18 @@
-﻿---
-title: ""
+---
+title: "Home"
 ---
 
 <div class="home-hero">
 
-<div class="home-hero-photo">
-![Bruno Barbosa](headshot.png){fig-alt="Portrait of Bruno Barbosa"}
-
-<blockquote class="impact-quote">
-I help organizations mitigate cyber risks and strengthen data protection through practical controls, clear documentation, and stakeholder alignment.
-
-</blockquote>
-
-</div>
-
 <div class="home-hero-copy">
+
+<p class="home-kicker">Cybersecurity Portfolio</p>
 
 # Bruno Barbosa
 
 ## Cybersecurity, Governance, Risk & Data Privacy Professional
 
-I'm a cybersecurity professional focused on governance, risk, and data privacy, with 4 years of experience across compliance, third-party risk management, and audit support. Based in Burnaby (Metro Vancouver), I'm completing an MBA at University Canada West (2026) to strengthen strategic and leadership capabilities.
+I’m a cybersecurity professional focused on governance, risk, and data privacy, with 4 years of experience across compliance, third-party risk management, and audit support. Based in Burnaby (Metro Vancouver), I’m completing an MBA at University Canada West (2026) to strengthen strategic and leadership capabilities.
 
 <div class="button-row">
   <a class="custom-button" href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
@@ -28,6 +20,10 @@ I'm a cybersecurity professional focused on governance, risk, and data privacy, 
   <a class="custom-button" href="resume.html">Resume</a>
 </div>
 
+</div>
+
+<div class="home-hero-photo">
+![Bruno Barbosa](headshot.png){fig-alt="Portrait of Bruno Barbosa"}
 </div>
 
 </div>
@@ -39,6 +35,11 @@ I'm a cybersecurity professional focused on governance, risk, and data privacy, 
 ## About Me
 
 I am building my career at the intersection of business and cybersecurity. My background includes work related to information security, third-party risk, privacy, and compliance, supported by hands-on experience with frameworks and practices such as ISO/IEC 27001, NIST, LGPD, GDPR, and TPRM. Through my MBA, I am expanding that technical foundation with stronger business analysis, strategy, and communication skills.
+
+<blockquote class="impact-quote">
+I help organizations mitigate cyber risks and strengthen data protection through practical controls, clear documentation, and stakeholder alignment.
+
+</blockquote>
 
 </div>
 

@@ -19,6 +19,8 @@ body {
   color: var(--text);
   font-family: 'Space Grotesk', 'Segoe UI', sans-serif;
   line-height: 1.7;
+  min-height: 100vh;
+  background-attachment: fixed;
 }
 
 #quarto-content {
@@ -63,6 +65,58 @@ main.content {
   background: var(--glass);
   backdrop-filter: blur(12px);
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+}
+
+.home-hero {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 2rem;
+  align-items: flex-end;
+  margin-bottom: 2rem;
+}
+
+.home-hero-photo {
+  flex: 0 0 auto;
+  max-width: 280px;
+}
+
+.home-hero-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.home-hero-photo .impact-quote {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.home-hero-copy {
+  flex: 1;
+  min-width: 0;
+}
+
+.home-kicker {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .home-hero {
+    flex-direction: column;
+  }
+  
+  .home-hero-photo {
+    max-width: 100%;
+    order: -1;
+  }
 }
 
 
@@ -189,8 +243,15 @@ section.level3 {
 }
 
 .page-footer,
-footer {
+footer,
+footer.footer,
+.nav-footer {
   color: var(--muted);
+  background: transparent !important;
+}
+
+.nav-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 @media (max-width: 900px) {
